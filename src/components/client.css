@@ -1,0 +1,14 @@
+.client {
+  width: 1280px;
+  height: 720px;
+  background-color: #0c1114;
+  border: 1px solid #1e282d;
+  background: linear-gradient(to right bottom, #02070d, #081213, #02070d);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  cursor: url('../assets/cursor-default.png'), auto;
+}
